@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btree.github.io/static/css/main.1a8a69b4.css",
+    "main.js": "/btree.github.io/static/js/main.a7048b3f.js",
+    "static/js/787.602c5fae.chunk.js": "/btree.github.io/static/js/787.602c5fae.chunk.js",
+    "index.html": "/btree.github.io/index.html",
+    "main.1a8a69b4.css.map": "/btree.github.io/static/css/main.1a8a69b4.css.map",
+    "main.a7048b3f.js.map": "/btree.github.io/static/js/main.a7048b3f.js.map",
+    "787.602c5fae.chunk.js.map": "/btree.github.io/static/js/787.602c5fae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a69b4.css",
+    "static/js/main.a7048b3f.js"
+  ]
+}
